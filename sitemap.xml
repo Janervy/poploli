@@ -1481,13 +1481,6 @@
   </url>
   
   <url>
-    <loc>https://www.poploli.com/tags/%E6%82%BC%E5%BF%B5/</loc>
-    <lastmod>2022-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.poploli.com/tags/Typecho/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1496,6 +1489,13 @@
   
   <url>
     <loc>https://www.poploli.com/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.poploli.com/tags/%E6%82%BC%E5%BF%B5/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1684,6 +1684,13 @@
   </url>
   
   <url>
+    <loc>https://www.poploli.com/tags/CSS/</loc>
+    <lastmod>2022-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.poploli.com/tags/%E4%B8%83%E7%89%9B/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1692,13 +1699,6 @@
   
   <url>
     <loc>https://www.poploli.com/tags/%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD/</loc>
-    <lastmod>2022-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.poploli.com/tags/CSS/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1733,13 +1733,6 @@
   </url>
   
   <url>
-    <loc>https://www.poploli.com/tags/%E5%AE%89%E5%8D%93/</loc>
-    <lastmod>2022-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.poploli.com/tags/%E5%BD%A9%E4%BC%9E%E7%A9%BA%E9%97%B4/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1748,6 +1741,13 @@
   
   <url>
     <loc>https://www.poploli.com/tags/%E6%96%87%E5%AD%A6/</loc>
+    <lastmod>2022-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.poploli.com/tags/%E5%AE%89%E5%8D%93/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1831,13 +1831,6 @@
   </url>
   
   <url>
-    <loc>https://www.poploli.com/tags/%E7%BD%91%E7%9B%98/</loc>
-    <lastmod>2022-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.poploli.com/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1846,6 +1839,13 @@
   
   <url>
     <loc>https://www.poploli.com/tags/%E9%9B%86%E7%A6%8F/</loc>
+    <lastmod>2022-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.poploli.com/tags/%E7%BD%91%E7%9B%98/</loc>
     <lastmod>2022-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
